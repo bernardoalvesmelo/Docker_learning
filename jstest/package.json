@@ -1,0 +1,13 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "testing",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
